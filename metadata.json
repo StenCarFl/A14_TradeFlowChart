@@ -1,0 +1,5 @@
+{
+  "name": "SPX Options Trading Assistant",
+  "description": "An application that guides users through a specific SPX options trading strategy based on provided flowcharts. It takes the current SPX price and position details to recommend the next action.",
+  "requestFramePermissions": []
+}
